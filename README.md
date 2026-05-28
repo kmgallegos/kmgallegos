@@ -22,6 +22,7 @@
   - 💻 Dev background in .NET, Java, and Angular — now specializing in Data Analytics & BI
   - 🔧 Building end-to-end BI projects: from raw data to star schemas to Power BI dashboards
   - 🔗 Looking to grow at the intersection of data engineering and analytics
+  - 🤖 Comfortable using AI coding assistants (Claude Code, GitHub Copilot, OpenAI Codex) as part of my dev and analytics workflow
 
   ---
 
@@ -58,6 +59,9 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
   **Frameworks**
 
