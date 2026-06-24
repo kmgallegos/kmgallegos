@@ -79,7 +79,7 @@
   ---
   ## Featured Projects
 
-  **[📦 Inventory Dashboard](https://github.com/kmgallegos/Portafolio)**
+  **[📦 Inventory Dashboard](https://github.com/kmgallegos/Inventory-Risk-Optimization)**
   End-to-end BI solution: ETL pipeline → star schema → 3-page Power BI dashboard
   covering executive KPIs, inventory risk, and commercial strategy.
   `Power BI` `SQL Server` `T-SQL`
