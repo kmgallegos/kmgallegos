@@ -15,7 +15,7 @@
 
   ## About Me
 
-  Final-semester student of **Information Systems Engineering at UPC** (Universidad Peruana de Ciencias Aplicadas), currently working as a Software Engineering Intern while actively building expertise in
+  **Bachelor’s degree in Information Systems Engineering from UPC** (Universidad Peruana de Ciencias Aplicadas), currently working as a Software Engineering Intern while actively building expertise in
   **Data Analytics and Business Intelligence**.
 
   - 🎓 Final-semester Information Systems Engineering student at UPC
